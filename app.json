@@ -1,0 +1,71 @@
+{
+    "app": {
+        "name": "Server Guide",
+        "color": "#008577"
+    },
+    
+    
+    "ads":{
+        "bannerId": "",
+        "interstitialId": ""
+    },
+    
+    
+    "content": {
+        "page1": {
+          "title": "About Kick theBdy",
+          "url": "https://aquila08.github.io/kickthe/Menu1.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page2": {
+          "title": "Kick theBdy",
+          "url": "https://aquila08.github.io/kickthe/Menu7.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page3": {
+          "title": "Bucks vs. Gold",
+          "url": "https://aquila08.github.io/kickthe/Menu2.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page4": {
+          "title": "Log in Every Day",
+          "url": "https://aquila08.github.io/kickthe/Menu3.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page5": {
+          "title": "Shell out Real Cash",
+          "url": "https://aquila08.github.io/kickthe/Menu4.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page6": {
+          "title": "Blow up theBdy",
+          "url": "https://aquila08.github.io/kickthe/Menu5.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page7": {
+          "title": "Snag -Free-bies",
+          "url": "https://aquila08.github.io/kickthe/Menu6.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page8": {
+          "title": "Figure out which weapons are the best at making money",
+          "url": "https://aquila08.github.io/kickthe/Menu8.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+        },
+        "page9": {
+          "title": "Earn weapons by 'posting' to Instagram",
+          "url": "https://aquila08.github.io/kickthe/Menu9.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+	    },
+		"page10": {
+          "title": "Experiment with different weapons",
+          "url": "https://aquila08.github.io/kickthe/Menu10.html",
+          "img": "https://www.freepngimg.com/thumb/symbol/80126-human-text-question-mark-animation-behavior-thumb.png"
+	    },
+        "page11": {
+          "title": "Good Luck!",
+          "url": "https://aquila08.github.io/kickthe/Menu11.html",
+          "img": "https://www.freepngimg.com/thumb/star/8-yellow-star-png-image-thumb.png"
+        }
+      }
+}
